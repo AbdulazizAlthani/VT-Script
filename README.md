@@ -1,7 +1,7 @@
 # VT Script
 ### Reach me at:
 
-- [![Linkedin](https://www.linkedin.com/in/abdulaziz-al-thani)
+- Linkedin: (https://www.linkedin.com/in/abdulaziz-al-thani)
 
 ### Description
 * The script has the following key features:
