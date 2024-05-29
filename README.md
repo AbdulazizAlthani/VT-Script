@@ -7,16 +7,24 @@
 
                                                                            
 ### Description
-* The script has the following key features:
+VT-Script is a powerful and user-friendly tool designed to simplify the process of scanning IP addresses, domains, and file hashes for potential malicious activities. Leveraging the VirusTotal API, this script provides a comprehensive solution for security professionals, incident responders, and cybersecurity enthusiasts.
 
-    - Target Scanning: The script can scan IP addresses, domains, and file hashes for potential malicious activities. It supports reading targets from a file specified by the user.
-    - VirusTotal API Integration: The script uses the VirusTotal API to fetch information about the provided targets. It requires an API key, which should be stored in a .env file.
-    - CSV Output: The script generates a CSV file named Malicious_IPs_Domains_Hashes.csv in the current directory, which contains the scanned targets, their types, and their maliciousness scores.
-    - Progress Tracking: The script uses a progress bar to display the scanning progress for each target.
-    - Error Handling: The script attempts to handle errors that may occur during the scanning process and provides appropriate error messages.
-    - Detailed Instructions: The script includes a banner and detailed instructions on how to use the tool and set up the required environment.
+### Key Features
+- Target Scanning: The script can scan a wide range of targets, including IP addresses, domains, and file hashes, for potential malicious activities. It supports reading targets from a user-specified file, making it a versatile and efficient tool.
+- VirusTotal API Integration: VT-Script integrates seamlessly with the VirusTotal API, allowing users to fetch detailed information about the provided targets. This integration requires a valid VirusTotal API key, which can be stored securely in a .env file.
+- CSV Output: The script generates a CSV file named "Malicious_IPs_Domains_Hashes.csv" in the current directory, containing the scanned targets, their types, and their maliciousness scores. This output can be easily analyzed and shared with relevant stakeholders.
+- Progress Tracking: VT-Script utilizes a progress bar to keep users informed about the scanning progress for each target, ensuring a smooth and transparent user experience.
+- Error Handling: The script is designed to handle errors that may occur during the scanning process, providing appropriate error messages to help users troubleshoot any issues.
+- Detailed Instructions: VT-Script includes a banner and comprehensive instructions on how to use the tool and set up the required environment, making it accessible to users of all skill levels.
 
-* The script is designed to be user-friendly and can be easily integrated into various security workflows or used as a standalone tool for investigating potential security threats.
+### Use Cases
+VT-Script is a versatile tool that can be utilized in a variety of cybersecurity and incident response scenarios, including:
+
+- Threat Intelligence: Scanning IP addresses, domains, and file hashes to identify potential threats and integrate the findings into threat intelligence efforts.
+- Incident Response: Analyzing indicators of compromise (IoCs) during incident response investigations to determine the scope and impact of a security breach.
+- Network Security: Monitoring and analyzing network traffic by scanning IP addresses and domains for signs of malicious activity.
+- Malware Analysis: Examining file hashes to assess the maliciousness of downloaded or suspicious files.
+
 
 ### Requirements:
 1. **Python**: The script is written in Python, so you will need to have Python installed on your system. The script was developed using Python 3.9, but it should work with other versions of Python 3 as well.
