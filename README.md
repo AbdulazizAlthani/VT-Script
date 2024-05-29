@@ -45,7 +45,14 @@ pip install -r requirements.txt
 3. Generate an API key from your account settings.
 4. Copy the API key
 5. Paste the API key in 'Enter_API_Key.txt'
-6. Create any file as (txt) format <targets_file>, then enter any IP, hashes, and domain to scan them.
-7. Run the script using the following command:
-  python script.py -f <targets_file>
+![Enter_API_Key.txt.png](Enter_API_Key.txt.png)
+7. Create any file as (txt) format <targets_file>, then enter any IP, hashes, and domain to scan them.
+![target.txt.png](target.txt.png)
+9. Run the script using the following command:
+  python script.py
+![Script.txt.png](Script.txt.png)
+ python script.py -f <targets_file>
+![running.png](running.png)
+![finish.png](finish.png)
+![Malicious_IPs_Domain.csv.png](Malicious_IPs_Domain.csv.png)
 ### Please feel free to contact me on my Linkedin private messages: https://www.linkedin.com/in/abdulaziz-al-thani
