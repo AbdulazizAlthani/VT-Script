@@ -1,15 +1,6 @@
 # VT Script
 ### Reach me at:
 
- __      __  _______      _____                 _           _   
- \ \    / / |__   __|    / ____|               (_)         | |  
-  \ \  / /     | |      | (___     ___   _ __   _   _ __   | |_ 
-   \ \/ /      | |       \___ \   / __| | '__| | | | '_ \  | __|
-    \  /       | |       ____) | | (__  | |    | | | |_) | | |_ 
-     \/        |_|      |_____/   \___| |_|    |_| | .__/   \__|
-                                                   | |          
-                                                   |_|          
-                                                   
      Author: Abdulaziz S. Althani
      Version: 1.0
      Linkedin: https://www.linkedin.com/in/abdulaziz-al-thani
